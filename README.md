@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="https://i.postimg.cc/FRWkJvSb/6499633-ai.png" alt="Logo" height="40px" style="vertical-align: middle;">    About Me:
 🌍 Based in Poland<br>🎓 Bachelor's in Information Technology, Networks And Cybersecurity<br>🛠️ Junior Site Reliability Engineer / DevOps Enthusiast
 
 
