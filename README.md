@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Based in Poland<br>🎓 Bachelor's in System, Networks, and Security Engineering<br>🛠️ Junior Site Reliability Engineer / DevOps Enthusiast
+🌍 Based in Poland<br>🎓 Bachelor's in Information Technology, Networks And Cybersecurity<br>🛠️ Junior Site Reliability Engineer / DevOps Enthusiast
 
 
 ## 🌐 Socials:
